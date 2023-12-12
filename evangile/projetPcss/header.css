@@ -1,0 +1,37 @@
+header > nav{
+
+}
+div >.row > .col{
+    border-radius: 1;
+}
+div >.row > .col > .para{
+    font-style: italic;
+    font-size: 25px;
+    color: blue;
+    font-weight: 900;
+}
+header > nav > div > a.navbar-brand {
+    color: white;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 15px;
+}
+
+header > nav > div > a.navbar-brand:hover{
+    color: violet;
+}
+header > nav > div > .navbar-nav > .navbar-brand > .navbar-nav > .navbar-brand > a.nav-link {
+    color: blue;
+}
+
+
+
+header > nav > div > .navbar-collapse a.nav-link.active{
+    color:white;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 15px;
+}
+header > nav > div > .navbar-collapse a.nav-link.active:hover{
+    color: violet;
+}

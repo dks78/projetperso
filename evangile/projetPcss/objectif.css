@@ -1,0 +1,16 @@
+.evangile{
+    /* font-style: italic; */
+    /* font-weight: 900; */
+    padding: 50px;
+}
+.verset{
+    color: blue;
+    font-style: italic;
+    font-weight: 900;
+}
+.evangile2 {
+    padding: 50px;
+}
+p{
+    font-size: 25px;
+}
