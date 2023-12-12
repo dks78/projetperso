@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;1,200&display=swap');
+.container > .carousel-caption {
+    /* background-color: rgba(255, 255, 255, 0.1); */
+   border-radius: 5px;
+   opacity: 9;
+}
+.container > .carousel-caption > h1{
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+    font-style: italic;
+}
+.container > .carousel-caption >  p {
+    font-style: italic;
+    font-size: 30px;
+    color: white;   
+    font-weight: 900;
+}
+ .nous > p{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 50px;
+    font-weight: 900;
+} 
+.page{
+margin: 0;
+padding: 0;
+}
+section.presente {
+    background: linear-gradient(#1E30B8
+    , #7E11E4);
+    padding: 150px;
+}
+div > footer{
+    background-color: black;
+}
+div > footer > p {
+    font-style: italic;
+    font-size: 15px;
+    color: white;   
+    font-weight: 900;
+}
