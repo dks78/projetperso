@@ -1,0 +1,42 @@
+#Acceuil{
+    background-image: url(/img/lion.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.custom-font-weight {
+    font-size: 40px;
+    font-weight: 900;
+    color: white;
+    text-align: center;
+}
+
+.navbar {
+    background-color:white /* Change this to the desired color */
+}
+.navbar > a { 
+    color: white;
+    font-size: 30px;
+    margin-left: 50px;
+}
+.navbar-toggler {
+    margin-right: 15px; /* Adjust the margin as needed */
+}
+
+.navbar-nav {
+    margin-right: auto;
+}
+
+.nav-item {
+    margin-right: 20px; /* Adjust the margin as needed */
+}
+
+@media (max-width: 767px) {
+    .navbar-nav {
+        margin-top: 20px; /* Adjust the margin as needed */
+    }
+}
